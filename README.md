@@ -15,6 +15,7 @@ This repository gives an overview both of material we, the Liquid Legal Institut
 
 - [eSignature—Why and How](deliverables/eSignature-LLI-whitepaper.pdf) (white paper) (PDF)
 - [Starter Kit](deliverables/eSignature-LLI-starter-kit.pdf) (PDF)
+- [eSignature Policy Drafting Checklist](deliverables/eSignature_policy_drafting_checklist.pdf) (PDF)
 - [Vendor List](deliverables/eSignature-LLI-vendor-list.xlsx) (Microsoft Excel file)
 
 ## C. About the Liquid Legal Institute
